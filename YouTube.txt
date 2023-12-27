@@ -1,1 +1,6 @@
 0.0.0.0 act.channel.facebook.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 www.youtube-nocookie.com
